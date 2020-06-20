@@ -9,7 +9,7 @@ Data form MPU9250
 
 ### program folder
 
-C programs for communications
-Platformio programs for 9250 management
+- C programs for communications
+- Platformio programs for 9250 management
 
 
