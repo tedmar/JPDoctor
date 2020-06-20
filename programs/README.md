@@ -8,3 +8,6 @@
 - **9250**: ESP32 program to manage two 9250
     - Status: Working, ready for test 20200620
 
+- **unclassified**: Android programms related to MPU9250
+    - Status: unclassified, copied as is
+

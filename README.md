@@ -11,5 +11,6 @@ Data form MPU9250
 
 - C programs for communications
 - Platformio programs for 9250 management
+- Other unclassified programs
 
 
