@@ -93,7 +93,7 @@ setup( void )
 
     init_mpu9250();
     setup_mpu9250(dev1.i2c_add);
-    setup_mpu9250(dev1.i2c_add); 
+    setup_mpu9250(dev2.i2c_add); 
 
     ti = millis();      //  Start time
 }

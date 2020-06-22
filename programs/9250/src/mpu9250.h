@@ -1,5 +1,5 @@
 /*
- *  mpu9250.c
+ *  mpu9250.h
  *      Routines for manage one MPU9250
  */
 
